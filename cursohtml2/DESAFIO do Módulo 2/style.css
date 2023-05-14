@@ -1,0 +1,181 @@
+@font-face {
+    font-family: "principal";
+    src: url(fontes/BebasNeue-Regular.otf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "android";
+    src: url(fontes/idroid.otf) format("opentype");
+}
+
+body{
+    background-color: #ebe5c5;
+    padding: 0px
+}
+
+header{
+    background-image: linear-gradient(to top, #063a1c, #2da463);
+    text-align: center;
+   padding: 5px;
+    border: 5px 5px 5px 5px solid black;
+}
+
+h1.tittle{
+    font-family: 'principal';
+    color: white;
+    font-size: 50px;
+}
+
+p.pretittle{
+    color: white;
+}
+
+
+    
+
+footer{
+    background-color: white;
+    width: 80%;
+    margin:auto;
+    
+    
+}
+
+h1.texttittle{
+    font-family: "android";
+    color: rgb(1, 100, 1);
+    
+    text-indent: 20px;
+    
+    
+}
+
+h1.texttittle2{
+    font-family: "android";
+    color: rgb(1, 100, 1);
+    background-image: linear-gradient(to right, rgba(61, 185, 61, 0.418), white);
+    
+    text-indent: 20px;
+}
+
+p.text{
+    
+    text-indent: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.link{
+    color: #1a5c37;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+div.img{
+    text-align: center;
+    
+}
+
+a.link2{
+    background-color: #83e1ad;
+    color: #063d1e;
+    font-weight: 700;
+    
+    text-decoration: none;
+}
+div.video{
+    text-align: center;
+    background-color: #063a1c;
+}
+
+h1.tittleend{
+    font-size: 19px;
+    background-color: #1a5c37;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    
+}
+
+div.linksinfo{
+    background-color: #83e1ad;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: -18px;
+}
+
+p.text2{
+    
+    text-indent: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 32px;
+    font-size: 16px;
+    
+}
+
+ul.second{
+    margin: auto;
+}
+
+div.pages{
+    background-color: #063a1c;
+    display: block;
+    color: white;
+
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+p.pages2{
+    display: inline;
+    font-family: "principal";
+    margin-left: 15px;
+    font-size: 22px;
+    padding: 5px;
+}
+
+p.pages2:hover{
+    background-color: #2da463;
+    color: black;
+    border-radius: 3px;
+    transition: 1s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
